@@ -30,7 +30,7 @@ To apply the theme, tell Select2 to do so by passing `bootstrap5` to the [`theme
 
 ```js
 $( "#your-dropdown" ).select2({
-    theme: "bootstrap5"
+    theme: "bootstrap-5"
 });
 ```
 
